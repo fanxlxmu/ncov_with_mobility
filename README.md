@@ -1,5 +1,5 @@
 # ncov_with_mobility
-The code and data for "Predicting the spread of COVID-19 in China with human mobility data"
+The code and data for "Predicting the spread of COVID-19 in China with human mobility data", which is accepted by 29th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL-21), doi:10.1145/3474717.3483952.
 
 Bibtex:
 ```
